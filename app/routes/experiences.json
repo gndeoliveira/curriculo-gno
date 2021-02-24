@@ -1,0 +1,17 @@
+[
+    {
+        "job": "Estágio em Vendas / Musashi do Brasil",
+        "timespan": "Julho/2019 a Abril/2020",
+        "description": "Estágio realizado no setor Comercial, responsável por toda parte de vendas, formação de preços, análise de mercado, elaboração de planejamento de vendas e análise de viabilidade de produção de peças."
+    },
+    {
+        "job": "Auxiliar de laboratório / Laboratoire de Génie de Production",
+        "timespan": "Fevereiro/2018 a Julho/2018",
+        "description": "Programa de iniciação científica realizado durante programa de intercâmbio (BRAFITEC-CAPES) para realização de estudos e ensaios mecânicos de fluência em ligas de titânio 6242 e 6246, de utilização aeroespacial, em colaboração com a empresa AIRBUS."
+    },
+    {
+        "job": "Assistente de suspensão e direção / Equipe Corisco Baja SAE - UPE",
+        "timespan": "Julho/2015 a Março/2016.",
+        "description": "Projeto estudantil criado pela SAE (sociedade dos engenheiros automotivos) onde os estudantes de engenharia devem desenvolver e gerenciar o projeto de um veículo off-road para competição, desde a fase de estudo de mercado, concepção do projeto até a fase de construção e validação."
+    }
+]
